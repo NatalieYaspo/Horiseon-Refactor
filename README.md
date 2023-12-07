@@ -8,7 +8,7 @@ A few simple fixes allowed the HTML and CSS to flow easier and be understood by 
 
 ## Installation
 
-Open page using URL: XXXX
+Open page using URL: https://natalieyaspo.github.io/Horiseon-Refactor-Home-Page/
 
 ## Usage
 
