@@ -16,6 +16,10 @@ The Home Page should look like the following:
 <img src="./assets/images/Final_Page_Top.png" alt="Horieon Nav Bar and Background Image">
 <img src="./assets/images/Final_Page_Content.png" alt="Horiseon site's content">
 
+## Credits
+
+Source Code: https://git.bootcampcontent.com/UNC-Charlotte/UNCC-VIRT-FSF-FT-12-2023-U-LOLC
+
 ## License
 
 None Required
